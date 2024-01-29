@@ -1,0 +1,8 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+    "clickToSelect":"ફાઇલ પસંદ કરવા માટે અહીં ક્લિક કરો",
+    "noFileSelected":"કોઈ ફાઇલ પસંદ કરવામાં આવી ન હતી"
+  }
